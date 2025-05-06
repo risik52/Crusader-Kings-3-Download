@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://app.mediafire.com/t8zrgyorywwai?crusa">
+  <a href="https://anysoftdownload.com/">
     <img src="https://github.com/user-attachments/assets/f951a1cf-d497-465d-acf6-89023eaba82e" height="80" alt="Link Image">
   </a>
 </div>
